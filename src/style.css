@@ -1,0 +1,65 @@
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    color: white;
+}
+
+input{
+    display: inline-block;
+}
+p{
+
+color: rgb(0, 0, 0);
+border: 4px solid rgb(0, 0, 0);
+font-family: 'Courier New', Courier, monospace;
+font-size: 16px;
+width: 15vw;
+
+}
+span{
+    display: block;
+}
+body{
+    background-image: url("https://img.magnific.com/fotos-gratis/fundo-abstrato-escuro_1048-1920.jpg");
+    background-repeat: no-repeat;
+    background-attachment: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.imagens{
+    display: flex;
+    justify-content: start;
+}
+
+.imagens img{
+    width: 30vw;
+    height: 30vw;
+}
+
+img{
+    color: rgb(0, 0, 0);
+border: 4px solid rgb(0, 0, 0);
+font-family: 'Courier New', Courier, monospace;
+font-size: 16px;
+width: 15vw;
+}
+
+h4{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
